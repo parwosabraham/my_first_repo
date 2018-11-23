@@ -1,4 +1,4 @@
-# My Learning GitHub Diary
+# My GitHub Diary
 ## Lessons Learnt
 1. Created GitHub Account
 2. Created first repository
